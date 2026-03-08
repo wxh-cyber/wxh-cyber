@@ -5,17 +5,25 @@
 - 👀 感兴趣的领域：前端开发、后端开发、系统架构、云原生、算法和数据结构
 - 🌱 学习方向：前端开发、算法和数据结构
 - 💞️ 合作方面：对开发技术感兴趣，热衷于学习新鲜事物。
-- 📫 联系方式:邮箱：wxhui1510@gmail.com
-- 😄 语言：中文（普通话二级乙等）、英语（已过CET-4、CET-6）
-- ⚡ 技术栈：
-- 1.前端开发：精通前端开发语言HTML、CSS、JavaScript，系统学习过npm、CommonJS、ES新特性、Express框架的相关知识，能运用Vue.js、Node.js框架实现前后端交互，并能够将项目落地实施。
-- 2.后端开发：精通C++，对Java和Python有一定的掌握程度，可利用Navicat或DBeaver实现对后端数据库的管理，对后端Spring框架有所涉猎
-- 3.项目经历：个人自主项目智能养护工程监管平台，通过Vue框架搭载基本的路由，引入Echart.js实现了数据的可视化。
-- 4.兴趣：主要学习方向前端开发，爱好钻研学习，研究新技术，课余时间也偶尔看看算法
+- 📫 联系方式:
+-      Google邮箱：wxhui1510@gmail.com
+-      QQ邮箱：1097071510@qq.com
+- 😄 语言：中文、英语（已过、CET-6）
+- ⚡ 技术栈：其实只会拼写HTML、CSS、JS、TS、Vue、React这几个单词（bu shi）
 <!---
 wxh-cyber/wxh-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-29A6E5?style=for-the-badge&logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2D51B?style=for-the-badge&logo=javascript&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-1BCEF2?style=for-the-badge&logo=webpack&logoColor=blue)
+![Vite](https://img.shields.io/badge/Vite-AA2DF3?style=for-the-badge&logo=vite&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-15982F?style=for-the-badge&logo=Node.js&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest.js-F02144?style=for-the-badge&logo=NestJS&logoColor=gray)
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxh-cyber&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wxh-cyber&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxh-cyber)](https://github.com/anuraghazra/github-readme-stats)
