@@ -5,9 +5,9 @@
 - 👀 感兴趣的领域：前端开发、后端开发、系统架构、云原生、算法和数据结构
 - 🌱 学习方向：前端开发、算法和数据结构
 - 💞️ 合作方面：对开发技术感兴趣，热衷于学习新鲜事物。
-- 📫 联系方式:
--      Google邮箱：wxhui1510@gmail.com
--      QQ邮箱：1097071510@qq.com
+- 📫 联系方式:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google邮箱：<wxhui1510@gmail.com><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ邮箱：<1097071510@qq.com><br />
 - 😄 语言：中文、英语（已过、CET-6）
 - ⚡ 技术栈：其实只会拼写HTML、CSS、JS、TS、Vue、React这几个单词（bu shi）
 <!---
@@ -26,5 +26,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats-inky-psi.vercel.app/api?username=wxh-cyber&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wxh-cyber&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxh-cyber)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-inky-psi.vercel.app/api/top-langs/?username=wxh-cyber&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxh-cyber&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
