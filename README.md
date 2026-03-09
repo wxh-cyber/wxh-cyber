@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <div>    
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wxh-cyber&theme=tokyonight&locale=zh_CN" height="165" alt="GitHub Streak" />    
 &nbsp;&nbsp;    
-<img src="https://github-readme-stats-inky-psi.vercel.app/api/wakatime?username=wxh_cyber&layout=compact&theme=tokyonight" height="165" alt="WakaTime" />  
+<img src="https://github-readme-stats-inky-psi.vercel.app/api/wakatime?username=wxh_cyber&layout=compact&theme=tokyonight" height="150" alt="WakaTime" />  
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxh-cyber&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
