@@ -24,8 +24,16 @@ You can click the Preview link to take a look at your changes.
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest.js-F02144?style=for-the-badge&logo=NestJS&logoColor=gray)
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats-inky-psi.vercel.app/api?username=wxh-cyber&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wxh-cyber&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-inky-psi.vercel.app/api/top-langs/?username=wxh-cyber&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime Stats](https://github-readme-stats-inky-psi.vercel.app/api/wakatime?username=wxh_cyber&layout=compact&theme=radical)](https://wakatime.com)
+
+<div>    
+<img src="https://github-readme-stats-inky-psi.vercel.app/api?username=wxh-cyber&show_icons=true&theme=tokyonight&custom_title=Sakura%20like%20snow's%20GitHub%20Stats" height="200" alt="GitHub Stats" />    
+&nbsp;&nbsp;    
+<img src="https://github-readme-stats-inky-psi.vercel.app/api/top-langs/?username=wxh-cyber&layout=compact&theme=tokyonight" height="200" alt="Top Languages" />
+</div>
+  <div>    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wxh-cyber&theme=tokyonight&locale=zh_CN" height="200" alt="GitHub Streak" />    
+&nbsp;&nbsp;    
+<img src="https://github-readme-stats-inky-psi.vercel.app/api/wakatime?username=wxh_cyber&layout=compact&theme=tokyonight" height="220" alt="WakaTime" />  
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wxh-cyber&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
