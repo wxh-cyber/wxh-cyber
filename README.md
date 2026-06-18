@@ -3,13 +3,14 @@
             𝑲𝒆𝒆𝒑 𝒘𝒂𝒍𝒌𝒊𝒏𝒈,𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅!
 - 👋 我是风雪心！
 - 👀 感兴趣的领域：前端开发、AI Agent、系统架构、云原生、算法和数据结构
-- 🌱 学习方向：前端开发、算法和数据结构
+- 🌱 学习方向：前端开发、Python、算法和数据结构
 - 💞️ 合作方面：对开发技术感兴趣，热衷于学习新鲜事物。
 - 📫 联系方式:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google邮箱：<wxhui1510@gmail.com><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ邮箱：<1097071510@qq.com><br />
 - 😄 语言：中文、英语（已过CET-6）
 - ⚡ 技术栈：其实只会拼写HTML、CSS、JS、TS、Vue、React这几个单词（bu shi）
+
 <!---
 wxh-cyber/wxh-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![Node](https://img.shields.io/badge/Node.js-15982F?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest.js-F02144?style=for-the-badge&logo=NestJS&logoColor=gray)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=black)
 <br />
 
 <div>    
