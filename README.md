@@ -3,7 +3,7 @@
             𝑲𝒆𝒆𝒑 𝒘𝒂𝒍𝒌𝒊𝒏𝒈,𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅!
 - 👋 我是风雪心！
 - 👀 感兴趣的领域：前端开发、AI Agent、系统架构、云原生、算法和数据结构
-- 🌱 学习方向：前端开发、Python、算法和数据结构
+- 🌱 学习方向：前端开发、Python、算法和数据结构，目前是正在向Python转型...
 - 💞️ 合作方面：对开发技术感兴趣，热衷于学习新鲜事物。
 - 📫 联系方式:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google邮箱：<wxhui1510@gmail.com><br/>
@@ -11,6 +11,7 @@
 - 😄 语言：中文、英语（已过CET-6）
 - ⚡ 技术栈：其实只会拼写HTML、CSS、JS、TS、Vue、React这几个单词（bu shi）
 
+**关注列表基本都是大佬，只有我又菜又不爱学😭(自卑地低下了头)**
 <!---
 wxh-cyber/wxh-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,12 +20,17 @@ You can click the Preview link to take a look at your changes.
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-29A6E5?style=for-the-badge&logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F2D51B?style=for-the-badge&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-skyblue?style=for-the-badge&logo=Sass&logoColor=cc6699)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=TailwindCSS&logoColor=06b6d4)
 ![Webpack](https://img.shields.io/badge/Webpack-1BCEF2?style=for-the-badge&logo=webpack&logoColor=blue)
 ![Vite](https://img.shields.io/badge/Vite-AA2DF3?style=for-the-badge&logo=vite&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-15982F?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-ffffff?style=for-the-badge&logo=Nuxt&logoColor=00dc82)
 ![Nest](https://img.shields.io/badge/Nest.js-F02144?style=for-the-badge&logo=NestJS&logoColor=gray)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white)
+
 <br />
 
 <div>    
