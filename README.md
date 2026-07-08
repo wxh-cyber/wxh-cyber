@@ -41,6 +41,10 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+<div>
+  <img alt="我的练习情况" src="https://luogu.wao3.cn/api/practice?id=933148&dark_mode=true&card_width=750">
+</div>
+
 <div>    
 <img src="https://github-readme-stats-inky-psi.vercel.app/api?username=wxh-cyber&show_icons=true&theme=tokyonight&custom_title=Sakura%20like%20snow's%20GitHub%20Stats" height="165" alt="GitHub Stats" />    
 &nbsp;&nbsp;    
