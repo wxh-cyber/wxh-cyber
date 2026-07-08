@@ -1,25 +1,25 @@
-                     𝑰‘𝒎 𝒂 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂!
+                     𝑰'𝒎 𝒂 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂!
                          𝑵𝒊𝒄𝒆 𝒕𝒐 𝒎𝒆𝒆𝒕 𝒚𝒐𝒖!
-            𝑲𝒆𝒆𝒑 𝒘𝒂𝒍𝒌𝒊𝒏𝒈,𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅!
+            𝑲𝒆𝒆𝒑 𝒘𝒂𝒍𝒌𝒊𝒏𝒈, 𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅!
 
-中文|[English](README_EN.md)
+[中文](README.md)|English
 
-- 👋 我是风雪心！
-- 👀 感兴趣的领域：前端开发、AI Agent、系统架构、云原生、算法和数据结构
-- 🌱 学习方向：前端开发、Python、算法和数据结构，目前是正在向Python转型...
-- 💞️ 合作方面：对开发技术感兴趣，热衷于学习新鲜事物。
-- 📫 联系方式:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google邮箱：<wxhui1510@gmail.com><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ邮箱：<1097071510@qq.com><br />
-- 😄 语言：中文、英语（已过CET-6）
-- ⚡ 技术栈：其实只会拼写HTML、CSS、JS、TS、Vue、React这几个单词（bu shi）
-- 🎮 爱好：崩坏3、魔星
+- 👋 I'm Fengxuexin!
+- 👀 Areas of interest: frontend development, AI agents, system architecture, cloud native, algorithms, and data structures
+- 🌱 Currently learning: frontend development, Python, algorithms, and data structures; I'm now transitioning toward Python...
+- 💞️ Collaboration: I'm passionate about development technologies and love learning new things.
+- 📫 Contact:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gmail: <wxhui1510@gmail.com><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ Mail: <1097071510@qq.com><br />
+- 😄 Languages: Chinese, English (CET-6)
+- ⚡ Tech stack: I can actually only spell HTML, CSS, JS, TS, Vue, and React (just kidding)
+- 🎮 Hobbies: Honkai Impact 3rd, Moshin
 
 ![逐火十三英桀](./逐火十三英桀.jpeg)
 
 <br />
 
-**关注列表基本都是大佬，只有我又菜又不爱学😭(自卑地低下了头)**
+**Almost everyone I follow is a big shot. I'm the only one who's still weak and doesn't even like studying 😭 (lowers head in inferiority)**
 <!---
 wxh-cyber/wxh-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
