@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <div>
-  <img alt="我的练习情况" src="https://luogu-card.vercel.app/practice?id=933148&dark_mode=true&card_width=750">
+  <img alt="我的练习情况" src="https://luogu.wao3.cn/about?id=933148&dark_mode=true&card_width=750">
 </div>
 
 <div>    
