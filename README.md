@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=500&color=06B923&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%E5%90%9F%E8%AF%B5%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97%2C%E4%BD%9C%E4%B8%BA%E4%BB%B2%E5%A4%8F%E4%B9%8B%E6%A2%A6%E7%9A%84%E5%BC%80%E5%9C%BA;%E7%94%9F%E5%A6%82%E5%A4%8F%E8%8A%B1%E4%B9%8B%E7%BB%9A%E7%83%82%EF%BC%8C%E6%AD%BB%E5%A6%82%E7%A7%8B%E5%8F%B6%E4%B9%8B%E9%9D%99%E7%BE%8E)](https://git.io/typing-svg)
 
-![逐火十三英桀](./逐火十三英桀.jpeg)
+![逐火十三英桀](./assets/逐火十三英桀.jpeg)
 
 <br />
 
