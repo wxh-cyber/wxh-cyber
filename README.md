@@ -1,8 +1,9 @@
                      𝑰‘𝒎 𝒂 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂!
                          𝑵𝒊𝒄𝒆 𝒕𝒐 𝒎𝒆𝒆𝒕 𝒚𝒐𝒖!
             𝑲𝒆𝒆𝒑 𝒘𝒂𝒍𝒌𝒊𝒏𝒈,𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅!
-
+<div style="display:flex;justifyContent:center;">
 中文|[English](README_EN.md)
+</div>
 
 - 👋 我是风雪心！
 - 👀 感兴趣的领域：前端开发、AI Agent、系统架构、云原生、算法和数据结构
@@ -14,6 +15,8 @@
 - 😄 语言：中文、英语（已过CET-6）
 - ⚡ 技术栈：其实只会拼写HTML、CSS、JS、TS、Vue、React这几个单词（bu shi）
 - 🎮 爱好：崩坏3、魔星
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=500&color=06B923&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%E5%90%9F%E8%AF%B5%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97%2C%E4%BD%9C%E4%B8%BA%E4%BB%B2%E5%A4%8F%E4%B9%8B%E6%A2%A6%E7%9A%84%E5%BC%80%E5%9C%BA;%E7%94%9F%E5%A6%82%E5%A4%8F%E8%8A%B1%E4%B9%8B%E7%BB%9A%E7%83%82%EF%BC%8C%E6%AD%BB%E5%A6%82%E7%A7%8B%E5%8F%B6%E4%B9%8B%E9%9D%99%E7%BE%8E)](https://git.io/typing-svg)
 
 ![逐火十三英桀](./逐火十三英桀.jpeg)
 
@@ -40,10 +43,6 @@ You can click the Preview link to take a look at your changes.
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white)
 
 <br />
-
-<div>
-  <img alt="我的练习情况" src="https://luogu.wao3.cn/api/practice?id=933148&dark_mode=true&card_width=750">
-</div>
 
 <div>    
 <img src="https://github-readme-stats-inky-psi.vercel.app/api?username=wxh-cyber&show_icons=true&theme=tokyonight&custom_title=Sakura%20like%20snow's%20GitHub%20Stats" height="165" alt="GitHub Stats" />    
