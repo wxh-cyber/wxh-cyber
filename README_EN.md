@@ -2,26 +2,26 @@
                          𝑵𝒊𝒄𝒆 𝒕𝒐 𝒎𝒆𝒆𝒕 𝒚𝒐𝒖!
             𝑲𝒆𝒆𝒑 𝒘𝒂𝒍𝒌𝒊𝒏𝒈, 𝒏𝒆𝒗𝒆𝒓 𝒔𝒕𝒐𝒑 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒏𝒆𝒘 𝒘𝒐𝒓𝒍𝒅!
 
-[中文](README.md)|English
+[中文](README.md) | English
 
 - 👋 I'm Fengxuexin!
-- 👀 Areas of interest: frontend development, AI agents, system architecture, cloud native, algorithms, and data structures
-- 🌱 Currently learning: frontend development, Python, algorithms, and data structures; I'm now transitioning toward Python...
-- 💞️ Collaboration: I'm passionate about development technologies and love learning new things.
+- 👀 Areas of interest: AI infrastructure, machine learning, deep learning, frontend development, and competitive programming (ACM).
+- 🌱 Currently learning: Python, machine learning, deep learning, frontend development, and algorithms. I'm transitioning from frontend development toward Python and AI.
+- 💞️ Collaboration: I'm passionate about technology, enjoy learning new things, and hope to pursue further study. I'm currently taking a break from the job market.
 - 📫 Contact:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gmail: <wxhui1510@gmail.com><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ Mail: <1097071510@qq.com><br />
-- 😄 Languages: Chinese, English (CET-6)
-- ⚡ Tech stack: I can actually only spell HTML, CSS, JS, TS, Vue, and React (just kidding)
-- 🎮 Hobbies: Honkai Impact 3rd, Moshin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gmail: [wxhui1510@gmail.com](mailto:wxhui1510@gmail.com)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ Mail: [1097071510@qq.com](mailto:1097071510@qq.com)<br />
+- 😄 Languages: Chinese and English (CET-6).
+- ⚡ Tech stack: HTML, CSS, JavaScript, TypeScript, Vue, and React (and still learning).
+- 🎮 Hobbies: Honkai Impact 3rd and Moxin.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=500&color=06B923&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%E5%90%9F%E8%AF%B5%E5%8D%81%E5%9B%9B%E8%A1%8C%E8%AF%97%2C%E4%BD%9C%E4%B8%BA%E4%BB%B2%E5%A4%8F%E4%B9%8B%E6%A2%A6%E7%9A%84%E5%BC%80%E5%9C%BA;%E7%94%9F%E5%A6%82%E5%A4%8F%E8%8A%B1%E4%B9%8B%E7%BB%9A%E7%83%82%EF%BC%8C%E6%AD%BB%E5%A6%82%E7%A7%8B%E5%8F%B6%E4%B9%8B%E9%9D%99%E7%BE%8E)](https://git.io/typing-svg)
 
-![逐火十三英桀](./逐火十三英桀.jpeg)
+![Thirteen Flame-Chasers](./assets/逐火十三英桀.jpeg)
 
 <br />
 
-**Almost everyone I follow is a big shot. I'm the only one who's still weak and doesn't even like studying 😭 (lowers head in inferiority)**
+**Almost everyone I follow is a big shot. I'm still learning at my own pace 😭**
 <!---
 wxh-cyber/wxh-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats-inky-psi.vercel.app/api/top-langs/?username=wxh-cyber&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
 </div>
   <div>    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wxh-cyber&theme=tokyonight&locale=zh_CN" height="165" alt="GitHub Streak" />    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wxh-cyber&theme=tokyonight&locale=en" height="165" alt="GitHub Streak" />
 &nbsp;&nbsp;    
 <img src="https://github-readme-stats-inky-psi.vercel.app/api/wakatime?username=wxh_cyber&layout=compact&theme=tokyonight" height="150" alt="WakaTime" />  
 </div>
