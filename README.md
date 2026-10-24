@@ -5,9 +5,9 @@
 中文|[English](README_EN.md)
 
 - 👋 我是风雪心！
-- 👀 感兴趣的领域：前端开发、AI Agent、系统架构、云原生、算法和数据结构
-- 🌱 学习方向：前端开发、Python、算法和数据结构，目前是正在向Python转型...
-- 💞️ 合作方面：对开发技术感兴趣，热衷于学习新鲜事物。
+- 👀 感兴趣的领域：AI Infra、ACM、前端开发（曾经）
+- 🌱 学习方向：Python、机器学习、深度学习、前端开发(时代的眼泪)、ACM（弥补童年遗憾），目前是正在向Python转型...
+- 💞️ 合作方面：对技术感兴趣，热衷于学习新鲜事物，有志向深造，目前在就业市场暂时隐退。
 - 📫 联系方式:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google邮箱：<wxhui1510@gmail.com><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ邮箱：<1097071510@qq.com><br />
